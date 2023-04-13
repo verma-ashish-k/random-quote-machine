@@ -1,3 +1,33 @@
+# Random Quote Machine
+
+A Random Quote Machine built with React that displays random quotes and allows you to share them on Twitter and Facebook. This project is part of the [freeCodeCamp](https://www.freecodecamp.org) curriculum.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Display random quotes
+- Share quotes on Twitter
+- Share quotes on Facebook
+- Smooth color transitions
+- Responsive design
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/<username>/<repository-name>.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
